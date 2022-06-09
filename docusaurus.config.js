@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Shuying Li Website',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Test',
   url: 'https://github.com',
   baseUrl: '/shuying-li-website/',
   onBrokenLinks: 'throw',
