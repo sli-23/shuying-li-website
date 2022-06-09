@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshuying_li_website=self.webpackChunkshuying_li_website||[]).push([[8969],{8422:function(s){s.exports=JSON.parse('{"label":"hola","permalink":"/shuying-li-website/blog/tags/hola","allTagsPath":"/shuying-li-website/blog/tags","count":1}')}}]);
