@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshuying_li_website=self.webpackChunkshuying_li_website||[]).push([[838],{2799:function(s){s.exports=JSON.parse('{"label":"docusaurus","permalink":"/shuying-li-website/blog/tags/docusaurus","allTagsPath":"/shuying-li-website/blog/tags","count":2}')}}]);
