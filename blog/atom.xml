@@ -15,12 +15,8 @@
         <summary type="html"><![CDATA[Congratulations, you have made your first post!]]></summary>
         <content type="html"><![CDATA[<p>Congratulations, you have made your first post!</p><p>Feel free to play around and edit this post as much you like.</p>]]></content>
         <author>
-            <name>Joel Marcey</name>
-            <uri>https://github.com/JoelMarcey</uri>
-        </author>
-        <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
+            <name>Shuying Li</name>
+            <uri>https://github.com/sli-23</uri>
         </author>
         <category label="greetings" term="greetings"/>
     </entry>
