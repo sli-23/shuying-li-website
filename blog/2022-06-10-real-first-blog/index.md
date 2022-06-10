@@ -7,7 +7,9 @@ tags: [hello, docusaurus]
 
 After learning some basics about using Docusaurus blogging, I successfully posted my **first blog**!
 
-![Profile Picture](./picture.jpg)
+<center>
+<img src="picture.jpg" width="400" height="400" />
+</center>
 
 :::important
 
