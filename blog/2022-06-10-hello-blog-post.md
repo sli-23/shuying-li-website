@@ -1,7 +1,7 @@
 ---
 slug: Hello Blog Post
 title: Test for my first blog
-authors: Shuying Li
+authors: sli
 tags: [hello, docusaurus]
 ---
 
